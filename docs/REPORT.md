@@ -27,7 +27,7 @@ to run in a new console the following command:
 
 ## Killing the service accounts (2222) and do requests to web
 When we kill the service accounts (2222) and do requests to web.
-Additionally, you can see that in Eureka it has been instantly removed.
+You can see that in Eureka it has been instantly removed.
 ![Eureka](./eurekaKilling.png)
 
 ## Can the web service provide information about the accounts again?
